@@ -1,0 +1,3 @@
+rootProject.name = "android-opengles"
+include ':base-library'
+include ':day01-draw-triangle'
