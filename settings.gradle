@@ -1,3 +1,4 @@
 rootProject.name = "android-opengles"
 include ':base-library'
-include ':day01-draw-triangle'
+
+include ':day01-draw-triangle:kotlin-version'
